@@ -22,8 +22,8 @@ To-Do List Web App is an application that helps users manage their tasks easily.
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/your-username/todolist-app.git
-cd todolist-app
+git clone https://github.com/Namhai01/Todolist.git
+cd Todolist
 ```
 
 ### 2. Install dependencies
